@@ -24,7 +24,7 @@ def run():
         page_icon="👋",
     )
 
-    st.write("CyberOops will be back soon. Streamlit is having some trouble with its new version, we're working hard on a fix!")
+    st.header("CyberOops will be back soon. Streamlit is having some trouble with its new version, we're working hard on a fix!")
 
 if __name__ == "__main__":
     run()
